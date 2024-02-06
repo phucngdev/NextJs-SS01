@@ -1,0 +1,15 @@
+# create project nextjs 
+terminal: npm create-next-app@latest
+project name: your-name-project
+typescript: yes
+eslint: yes
+tailwind: yes
+src/directory: yes
+app router: yes
+import alias: no
+enter
+
+# run project
+terminal: cd your-name-project
+npm run dev
+enter
